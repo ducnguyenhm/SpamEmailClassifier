@@ -56,7 +56,4 @@ Final results and justifications for model selection are discussed in the analys
 - pandas
 - matplotlib / seaborn (for visualization)
 
----
-
-## 📂 Project Structure
 
